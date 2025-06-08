@@ -16,12 +16,13 @@ FREERTOS_PLUS_DIR_REL := PATH_a_su/FreeRTOSv202212.01/FreeRTOS-Plus
 
 4) Abra el archivo src/main.c 
 
-En este archivo observará el código ejecutado en clase. Al final del documento se encontra el espacio identificado con #TO DO. 
+En este archivo observará el código ejecutado en clase. A lo largo del documento se encontrará los espacios identificados con #TO DO:
 
-Deberá generar una nueva tarea y realizar la instancia. 
+Cree una tarea de mayor prioridad que tengo un delay de 500 ms.
 
-Compile el programa y ejecute el archivo "ejectuble" tome una captura de la salida. y una captura del código modifica en main por su parte. 
+Compile el programa y ejecute el archivo "ejectuble" tome una captura de la salida y una captura del código modifica en main por su parte. 
 
+Analice el resultado de la consola, ¿es el esperado?
 
 
 Código fuente: https://github.com/FreeRTOS/FreeRTOS/releases/tag/202212.01
