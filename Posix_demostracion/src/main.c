@@ -15,7 +15,7 @@
 // Declaración (prototipo) de las funciones que serán las tareas
 void vTask1(void *pvParameters);
 void vTask2(void *pvParameters);
-// to do: proptitpo de su función de la tarea 
+// to do: prototipo de su función de la tarea 
 
 
 /* ============================= */
