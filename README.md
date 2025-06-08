@@ -17,6 +17,6 @@ FreeRTOS tiene a disposición la simulación de freeRTOS a partir de nuestro de 
 
 ###   Guía práctica individual
 
-Siga las indicaciones que encontrará en el archivo "Guía indivial", con las instrucciones de ejecución y capturas a presentar. 
+Siga las indicaciones que encontrará en el archivo "Guía individual", con las instrucciones de ejecución y capturas a presentar. 
 
 
