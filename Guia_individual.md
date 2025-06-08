@@ -9,6 +9,7 @@ En la carpeta "Posix demostración" encontrará lo necesario para realizar la gu
 Para establer los PATH según el sitio donde haya descargado dicha carpeta. En específico, debe modificar: 
 
 FREERTOS_DIR_REL := PATH_a_su/FreeRTOSv202212.01/FreeRTOS
+
 FREERTOS_PLUS_DIR_REL := PATH_a_su/FreeRTOSv202212.01/FreeRTOS-Plus
 
 3) Modifique el archivo c_cpp-properties.json lineas 7 y 8 pra su Path. 
