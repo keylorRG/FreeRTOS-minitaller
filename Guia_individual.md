@@ -12,7 +12,7 @@ FREERTOS_DIR_REL := PATH_a_su/FreeRTOSv202212.01/FreeRTOS
 
 FREERTOS_PLUS_DIR_REL := PATH_a_su/FreeRTOSv202212.01/FreeRTOS-Plus
 
-3) Modifique el archivo c_cpp-properties.json lineas 7 y 8 pra su Path. 
+3) Modifique el archivo c_cpp-properties.json lineas 7 y 8 para su Path. 
 
 4) Abra el archivo src/main.c 
 
